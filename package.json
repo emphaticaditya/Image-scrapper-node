@@ -1,0 +1,21 @@
+{
+  "name": "image-scrapper",
+  "version": "1.0.0",
+  "description": "scraps images using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scrapper",
+    "images"
+  ],
+  "author": "aditya kumar",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "request": "^2.83.0"
+  }
+}
